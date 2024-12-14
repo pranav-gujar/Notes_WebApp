@@ -1,4 +1,4 @@
-# My Notes App
+# Notes WebApp
 
 A simple web-based Notes app built with HTML, CSS, and JavaScript.
 
